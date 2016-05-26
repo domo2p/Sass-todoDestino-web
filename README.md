@@ -2,6 +2,6 @@
 ## Minutostododestino.com Web page
 
 
--I'am learning to code and learning to speak english  
-This is a small project for practicing both, my coding skills (html, Css, Sass).-
--I'm also practicing my reading, writing and speaking skills in english.-
+I'am learning to code and learning to speak english  
+This is a small project for practicing both, my coding skills (html, Css, Sass).  
+I'm also practicing my reading, writing and speaking skills in english.
