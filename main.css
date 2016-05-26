@@ -1,0 +1,211 @@
+/*Variables */
+/*Estilos */
+* {
+  border: 0px;
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  border: 0px;
+  color: #7f8c8d;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+img {
+  border: 0px; }
+
+h1 {
+  color: #0074D9;
+  font-size: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 1rem;
+  text-align: center; }
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5rem; }
+
+ul {
+  list-style: none; }
+
+.contact {
+  background: #2ECC40;
+  color: #FFFFFF;
+  font-weight: bold;
+  height: 25px;
+  width: 100%; }
+  .contact p {
+    display: inline-block;
+    float: right;
+    margin-top: 1.5px;
+    margin-right: 15px; }
+
+.nav {
+  margin: auto;
+  width: 100%; }
+
+.header {
+  background: #FFFFFF;
+  height: 80px;
+  width: 100%; }
+  .header .headercont {
+    margin: auto;
+    height: auto;
+    width: 900px; }
+    .header .headercont img {
+      margin-top: 20px; }
+    .header .headercont p {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      margin-top: -5px;
+      text-align: center; }
+
+.menu {
+  background: #111111;
+  height: 140px;
+  min-width: 900px;
+  padding: 20px;
+  text-align: center;
+  width: 100%; }
+  .menu a {
+    color: #FFFFFF;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 40px;
+    text-decoration: none; }
+
+.scroll {
+  color: #FFFFFF; }
+  .scroll:hover {
+    color: #AAAAAA; }
+
+.contenedor {
+  margin: auto;
+  width: 65%; }
+  .contenedor #inicio {
+    border: 2px solid #3D9970;
+    height: 100%;
+    margin-top: 2px;
+    margin-bottom: 1px;
+    padding: 20px; }
+    .contenedor #inicio:hover {
+      border: 2px solid #FF851B; }
+  .contenedor #tarifas {
+    border: 2px solid #3D9970;
+    height: 100%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 20px; }
+    .contenedor #tarifas:hover {
+      border: 2px solid #FF851B; }
+  .contenedor #saldo {
+    border: 2px solid #3D9970;
+    height: 100%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 20px; }
+    .contenedor #saldo:hover {
+      border: 2px solid #FF851B; }
+  .contenedor #soporte {
+    border: 2px solid #3D9970;
+    height: 100%;
+    margin-top: 1px;
+    padding: 20px; }
+    .contenedor #soporte:hover {
+      border: 2px solid #FF851B; }
+
+.margen {
+  margin-top: 50px; }
+
+.fixed {
+  position: fixed;
+  top: 0px; }
+
+.login {
+  display: inline-block;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 40px;
+  margin: 0px 5px 0px 5px;
+  padding: 20px 0px; }
+  .login a {
+    color: #FF4136;
+    text-decoration: none; }
+
+.footer {
+  font-size: 1rem;
+  margin: 5px;
+  padding: 5px;
+  text-align: center; }
+
+/*OOCSS - Button Styles */
+.button {
+  background: #2ECC40;
+  box-shadow: 0px 3px #001f3f;
+  color: #FFFFFF;
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 10px;
+  padding: 10px 0px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px; }
+  .button span {
+    margin-right: 10px; }
+
+/*Button Color Styles */
+.button.red {
+  background: #FF4136;
+  box-shadow: 0px 3px 0px #c0392b; }
+
+.button.blue {
+  background: #0074D9;
+  box-shadow: 0px 3px 0px #001f3f; }
+
+/*Button Size */
+.button.small {
+  width: 200px; }
+
+.button.medium {
+  width: 410px; }
+
+.button.large {
+  width: 100%; }
+
+/*Button Efects */
+.button.rounder {
+  border-radius: 10px; }
+
+.button:hover {
+  box-shadow: 0px 0px 0px;
+  padding-top: 7px; }
+
+.arrow-up {
+  background: #AAAAAA;
+  bottom: 20px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: none;
+  font-size: 20px;
+  padding: 20px;
+  position: fixed;
+  right: 20px; }
+
+.derecha {
+  background-color: #DDDDDD;
+  border-radius: 50PX 0PX 0PX 50PX;
+  box-shadow: 1px 1px 5px #111111;
+  -moz-box-shadow: 1px 1px 5px #111111;
+  -webkit-box-shadow: 1px 1px 5px #111111;
+  float: right;
+  margin-right: -30px;
+  padding: 10px 20px;
+  position: relative; }
+
+.multicol {
+  -moz-column-width: 15em;
+  -moz-column-gap: 15px;
+  -webkit-column-width: 12em;
+  -webkit-column-gap: 15px;
+  -webkit-column-rule: 1px solid #7f8c8d;
+  -moz-column-rule: 1px solid #7f8c8d; }
+
+/*# sourceMappingURL=main.css.map */
