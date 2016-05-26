@@ -1,6 +1,5 @@
 # Sass-todoDestino-web
-## Minutostododestino.com Web page
-
+### Minutostododestino.com Web page
 
 I'am learning to code and learning to speak english  
 This is a small project for practicing both, my coding skills (html, Css, Sass).  
